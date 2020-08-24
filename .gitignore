@@ -3,3 +3,6 @@
 *.srl
 *.pem
 *.csr
+rsa_key.der
+data/bitwarden
+
