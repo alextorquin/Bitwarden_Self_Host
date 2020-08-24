@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Este script debe encontrarse en la ruta base del proyecto
+# Este script debe encontrarse en la ruta base del proyecto.
 
 # Arranque de los contenedores definidos en docker-compose.yml
 sudo docker-compose up -d
